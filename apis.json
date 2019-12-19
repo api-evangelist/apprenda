@@ -1,0 +1,62 @@
+{
+    "name": "Apprenda",
+    "description": "Apprenda is a software layer that transforms any infrastructure into a policy-driven, hybrid cloud application platform.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11411-apprenda.jpg",
+    "tags": [
+        "api service provider",
+        "have api",
+        "java",
+        "paas"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/apprenda\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Apprenda",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11411-apprenda.jpg",
+            "humanURL": "http:\/\/apprenda.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apprenda-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apprenda-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/apprenda.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/apprenda.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/apprenda"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@apprenda.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/apprenda"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/apprenda.com\/"
+        }
+    ]
+}
